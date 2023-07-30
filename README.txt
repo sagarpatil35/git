@@ -1,9 +1,22 @@
 # Upload-folder-in-github
 step :- 
 
+```term
 git init
-git add .
-git commit -m "Initial commit"
-git remote add origin <GitHub repository URL>
-git push -u origin master
+```
 
+```term
+git add .
+```
+
+```term
+git commit -m "Initial commit"
+```
+
+```term
+git remote add origin <GitHub repository URL>
+```
+
+```term
+git push -u origin master
+```
